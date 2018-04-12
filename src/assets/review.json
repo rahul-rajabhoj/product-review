@@ -1,0 +1,120 @@
+[{
+		"productId": "1",
+		"name": "JBL Speaker",
+		"about": "Great sound and small form factor. Wireless Bluetooth Streaming. Rechargeable Battery - Up to five hour playtime Built-in Speakerphone. Compatible with smartphones and tablets",
+		"reviews": [{
+				"id": 1,
+				"title": "Fabulous!",
+				"reviewerName": "Ankit Agiwa",
+				"ratings": "5",
+				"date": "23 Sep, 2017",
+				"description": "It is awesome. Bass is awesome and the total sound is just wow. I m so very happy to buy this product ",
+				"reviewType": 1
+			},
+			{
+				"id": 2,
+				"title": "Unsatisfactory",
+				"reviewerName": "Anand Jadhav",
+				"ratings": "1",
+				"date": "17 Oct, 2017",
+				"description": "Speaker is good but the battery is training out even though I am not using it. Not happy at all. Don't buy this one.",
+				"reviewType": 2
+			}, 
+			{
+				"id": 3,
+				"title": "Just okay",
+				"reviewerName": "Ajay Singh Meena",
+				"ratings": "3",
+				"date": "02 Apr 2018",
+				"description": "Speaker is good but the battery is training out even though I am not using it. Not happy at all. Don't buy this one.",
+				"reviewType": 3
+			},
+			{
+				"id": 4,
+				"title": "Fabulous!",
+				"reviewerName": "Ankit Agiwa",
+				"ratings": "5",
+				"date": "23 Sep, 2017",
+				"description": "It is awesome. Bass is awesome and the total sound is just wow. I m so very happy to buy this product ",
+				"reviewType": 1
+			},
+			{
+				"id": 5,
+				"title": "Fabulous!",
+				"reviewerName": "Ankit Agiwa",
+				"ratings": "5",
+				"date": "23 Sep, 2017",
+				"description": "It is awesome. Bass is awesome and the total sound is just wow. I m so very happy to buy this product ",
+				"reviewType": 1
+			},
+			{
+				"id": 6,
+				"title": "Unsatisfactory",
+				"reviewerName": "Anand Jadhav",
+				"ratings": "1",
+				"date": "17 Oct, 2017",
+				"description": "Speaker is good but the battery is training out even though I am not using it. Not happy at all. Don't buy this one.",
+				"reviewType": 2
+			}, 
+			{
+				"id": 7,
+				"title": "Unsatisfactory",
+				"reviewerName": "Anand Jadhav",
+				"ratings": "1",
+				"date": "17 Oct, 2017",
+				"description": "Speaker is good but the battery is training out even though I am not using it. Not happy at all. Don't buy this one.",
+				"reviewType": 2
+			}, 
+			{
+				"id": 3,
+				"title": "Just okay",
+				"reviewerName": "Ajay Singh Meena",
+				"ratings": "3",
+				"date": "02 Apr 2018",
+				"description": "Speaker is good but the battery is training out even though I am not using it. Not happy at all. Don't buy this one.",
+				"reviewType": 3
+			},
+			{
+				"id": 3,
+				"title": "Just okay",
+				"reviewerName": "Ajay Singh Meena",
+				"ratings": "3",
+				"date": "02 Apr 2018",
+				"description": "Not perfect in looks and design. Even the working quality is below average.A total disappointment ",
+				"reviewType": 3
+			}
+		]
+	},
+	{
+		"productId": "2",
+		"name": "HP Laptop Pavilion G6",
+		"about": "7th Generation Intel® Core™ i7 processor. Windows 10 Pro 64. 512 GB PCIe® NVMe™ M.2 SSD. 16 GB LPDDR3-1866 SDRAM (onboard). 13.3 Diagonal FHD UWVA BrightView WLED-backlit touch screen (1920 x 1080)",
+		"reviews": [{
+				"id": 10,
+				"title": "Good to asd thiss product.",
+				"reviewerName": "Mayur Mate",
+				"ratings": "5",
+				"date": "02 Apr 2018",
+				"description": "Very nice product, love to having such expensive gft from company",
+				"reviewType": 1
+			},
+			{
+				"id": 11,
+				"title": "Good to havasdiss product.",
+				"reviewerName": "Mayur Mate",
+				"ratings": "1",
+				"date": "02 Apr 2018",
+				"description": "Very nice product, love to having such expensive gft from company",
+				"reviewType": 2
+			}, {
+				"id": 12,
+				"title": "Good to havasd asd.",
+				"reviewerName": "Mayur Mate",
+				"ratings": "3",
+				"date": "02 Apr 2018",
+				"description": "Very nice product, love to having such expensive gft from company",
+				"reviewType": 3
+			}
+		]
+	}
+]

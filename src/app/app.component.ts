@@ -1,4 +1,5 @@
 import { Component } from '@angular/core';
+import { AppModel } from './app.model';
 
 @Component({
   selector: 'app-root',
@@ -6,5 +7,15 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'app';
+  Id: any;
+  productId: any = 0;
+  constructor(public appModel: AppModel) {}
+
+  searchProduct(id) {
+    this.productId = this.Id;
+    this.appModel.positive = [];
+    this.appModel.negative = [];
+    this.appModel.neutral = [];
+    this.appModel.getReviews(this.Id);
+  }
 }
