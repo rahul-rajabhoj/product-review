@@ -1,6 +1,5 @@
 # ProductReview
-
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.7.4.
+An app to search for a particular product among a list of products and display all of its details and reviews. The product list should be provided in JSON format. This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.7.4.
 
 ## Development server
 
